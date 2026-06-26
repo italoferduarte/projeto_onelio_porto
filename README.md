@@ -24,6 +24,3 @@ Tecnologias e Blocos Utilizados:
 * JavaScript (Bloco de código "Code" contendo a expressão matemática Math.floor para geração do PIN).
 * Gmail API (Disparo automatizado de e-mails de verificação).
 * Google Sheets API (Armazenamento estruturado em tabelas).
-
-Considerações Técnicas:
-Aviso para avaliadores: O arquivo JSON deste repositório contém a lógica bruta de ramificação e blocos lógicos. Em um ambiente de produção (self-hosted ou nuvem), as credenciais de API (credentialsId) atreladas ao Google Workspace são rigorosamente controladas para manter a integridade dos dados escolares.
